@@ -1,11 +1,11 @@
-<h1 align="center"> 𝐂𝐨𝐜𝐤𝐭𝐚𝐢𝐥 𝐗 𝐌𝐮𝐬𝐢𝐜 <\> </h1>
+<h1 align="center"> ROYAAL 𝐗 𝐌𝐮𝐬𝐢𝐜 <\> </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7dc61a1888f94ed694fb9.jpg" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://graph.org/file/dc55b785e3e2c7b0026fa.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
-<a href="https://github.com/NITISHSHARMA143123/Cocktail/stargazers"><img src="https://img.shields.io/github/stars/NITISHSHARMA143123/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Kyaamatq/Cocktail/stargazers"><img src="https://img.shields.io/github/stars/NITISHSHARMA143123/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/NITISHSHARMA143123/Cocktail/network/members"> <img src="https://img.shields.io/github/forks/NITISHSHARMA143123/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/NITISHSHARMA143123/Cocktail/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
@@ -108,10 +108,10 @@ For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/MusicX_Cockt
 Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/Lily_support_chat">
+  <a href="https://t.me/ll_friendss_chatting_group_ll">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://t.me/Lily_X_bots">
+  <a href="https://t.me/ll_friendss_chatting_group_ll">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -122,7 +122,7 @@ Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 We Welcome Contributions To The Inflex Music Bot Project. If You'd Like To Contribute, Please Follow These Steps :
 
-1. [Fork The Repository.](https://github.com/NITISHSHARMA143123/Cocktail/fork)
+1. [Fork The Repository.](https://github.com/Kyaamatq/Cocktail/fork)
 2. Create A New Branch With A Meaningful Name.
 3. Make Your Changes And Commit Them With A Descriptive Commit Message.
 4. Open A Pull Request Against Our `main` Branch.
