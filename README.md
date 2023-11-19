@@ -1,15 +1,15 @@
-<h1 align="center"> ROYAAL 𝐗 𝐌𝐮𝐬𝐢𝐜 <\> </h1>
+<h1 align="center"> Cocktail 𝐗 𝐌𝐮𝐬𝐢𝐜 <\> </h1>
 
 <p align="center">
   <img src="https://graph.org/file/dc55b785e3e2c7b0026fa.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
-<a href="https://github.com/Kyaamatq/Cocktail/stargazers"><img src="https://img.shields.io/github/stars/NITISHSHARMA143123/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/NITISHSHARMA143123/Cocktail/network/members"> <img src="https://img.shields.io/github/forks/NITISHSHARMA143123/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/NITISHSHARMA143123/Cocktail/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Kyaamatq/Cocktail/stargazers"><img src="https://img.shields.io/github/stars/kyaamatq/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/kyaamatq/Cocktail/network/members"> <img src="https://img.shields.io/github/forks/kyaamatq/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/kyaamatq/Cocktail/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/NITISHSHARMA143123/Cocktail/commits/NITISHSHARMA143123"> <img src="https://img.shields.io/github/last-commit/TeamInflex/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/kyaamatq/Cocktail/commits/NITISHSHARMA143123"> <img src="https://img.shields.io/github/last-commit/TeamInflex/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -33,7 +33,7 @@
       ─「 <\> Deploy On Heroku <\> 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NITISHSHARMA143123/Cocktail"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/kyaamatq/Cocktail"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ### 🔧 Quick Setup
@@ -57,7 +57,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/NITISHSHARMA143123/Cocktail && cd Cocktail
+   git clone https://github.com/kyaamatq/Cocktail && cd Cocktail
    ```
 6. **Install Requirements**
    ```bash
