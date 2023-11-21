@@ -1,7 +1,7 @@
-<h1 align="center"> Cocktail 𝐗 𝐌𝐮𝐬𝐢𝐜 <\> </h1>
+<h1 align="center"> ROYAAL 𝐗 𝐌𝐮𝐬𝐢𝐜 <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/dc55b785e3e2c7b0026fa.jpg" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://graph.org/file/f65286b91f4795822ea8a.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/MusicX_Cockt
 Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 <p align="center">
-  <a href="https://t.me/ll_friendss_chatting_group_ll">
+  <a href="https://t.me/+MPRxp3dGFZgzMzE1">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
   <a href="https://t.me/ll_friendss_chatting_group_ll">
